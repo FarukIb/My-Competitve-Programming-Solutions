@@ -1,5 +1,3 @@
-//note: for all coci problems visit their site, it has source code and a nice editorial in english
-
 #include <algorithm>
 #include <iostream>
 #include <cstring>

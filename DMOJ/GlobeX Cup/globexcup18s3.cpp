@@ -1,6 +1,3 @@
-// note: just long long fails on last batch, must use ULL
-// comment: fun task to figure out, anyone with proof for why (2 ^ k - 1) works with xor(last line of editorial). It makes sense but proof would be nice. email me at ibrahimovic.faruk@gmail.com
-
 #include <algorithm>
 #include <iostream>
 #include <cstring>
