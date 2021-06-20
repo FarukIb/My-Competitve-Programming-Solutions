@@ -33,7 +33,7 @@ int main()
 	cin >> n;
 	for (int i = 0; i < n; i++)
 	{
-		int a, b;
+		ll a, b;
 		cin >> a >> b;
 		added[b] += a;
 	}
@@ -59,7 +59,8 @@ int main()
 			else
 				out += (arr[l].second - done) * 2, filled[arr[r].second] += arr[l].second - done, done += arr[l].second - done;
 		}
-		out += lef, done += lef, l++;
+		if (done >= arr[l].second)
+			out += lef, done += lef, l++;
 	}
 	
 	if (l == r)
