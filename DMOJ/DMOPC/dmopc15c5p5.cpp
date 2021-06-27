@@ -1,3 +1,5 @@
+// note: i of course, didn't get it on my own. it's a bit confusing to figure out but i eventually got it
+// might start making a class for every data structure idk it looks nice
 #include <algorithm>
 #include <iostream>
 #include <cstring>
