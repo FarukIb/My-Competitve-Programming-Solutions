@@ -1,3 +1,4 @@
+//check their site for editorial https://hsin.hr/coci/archive/2015_2016/
 #include <algorithm>
 #include <iostream>
 #include <cstring>
