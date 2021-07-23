@@ -1,3 +1,5 @@
+// useful link: https://www.geeksforgeeks.org/count-distinct-subsequences/
+
 #include <iostream>
 #include <vector>
 #include <math.h>
