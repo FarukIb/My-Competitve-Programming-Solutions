@@ -3,7 +3,8 @@
 
 // first step, compress the array you get (look up array/coordinate compression if you do not know what it is)
 // then use a fenwick tree to dynamically find out how many elemnts appeared 
-// before the current elemnt(look at the code at line 90 for explanation)
+// before the current element(look at the code at line 90 for explanation)
+// with this information we can figure out the position in the pinball ranking
 // after that, just take their average
 
 #include <algorithm>
